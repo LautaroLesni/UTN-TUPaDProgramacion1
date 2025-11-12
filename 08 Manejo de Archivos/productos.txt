@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,350.0,15
+Regla,90.0,25
+Coca cola,300.0,100
